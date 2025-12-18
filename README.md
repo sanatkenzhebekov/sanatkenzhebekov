@@ -54,8 +54,8 @@
 | **Telegram** (предпочтительный способ) | [@sanat_kenzhebekov](https://t.me/sanat_kenzhebekov) |
 | **WhatsApp** | [+7 747 594-13-24](https://wa.me/+77475941324) |
 | **Электронная почта** | [a002teo@yandex.kz](mailto:a002teo@yandex.kz) |
-| **GitHub** (этот профиль) | [Ваш логин на GitHub](https://github.com/your-username) |
-| **LinkedIn** (рекомендуется добавить) | [Ссылка на профиль](https://linkedin.com/in/...) |
+| **GitHub** | [Мой GitHub](https://github.com/sanatkenzhebekov) |
+| **LinkedIn** | [Ссылка на профиль](https://www.linkedin.com/in/sanat-kenzhebekov-7946a3237?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) |
 
 ### 💼 **Статус занятости**
 
